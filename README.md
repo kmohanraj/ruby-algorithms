@@ -6,7 +6,7 @@
 1.Bubble Sort
 
 
-[this subtext](subpro/subtext.md)
+[1.Bubble Sort](https://github.com/kmohanraj/ruby-algorithms/blob/master/algorithms/bubble_sort.rb)
 
 
-[a relative link](markdown_file.md)
+[1.Bubble Sort](https://github.com/kmohanraj/ruby-algorithms/blob/master/algorithms/bubble_sort.rb)
